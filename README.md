@@ -1,6 +1,6 @@
 ## My name Volodymyr
 
-I am a 17 y.o. student from Novy Rozdil
+I am a 17 y.o. student from Novyi Rozdil
 
 ```
 I started studying programming because it always interested me
