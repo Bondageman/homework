@@ -17,7 +17,9 @@ Employers often offer relocations to their workers
 ***
 ### My life credo:
 >He who wants to live must fight, and he who does not want to resist in this world of eternal struggle does not deserve the right to life.
+
 _Adolf Hitler_
+
 ***
 ## My hobby:
 * Reading books
